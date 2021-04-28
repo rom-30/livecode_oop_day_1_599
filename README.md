@@ -5,7 +5,7 @@ gh repo clone rom-30/livecode_oop_day_1_599
 ```
 or
 ```bash
-git@github.com:rom-30/livecode_oop_day_1_599.git
+git clone git@github.com:rom-30/livecode_oop_day_1_599.git
 ```
 
 ## Citizen
